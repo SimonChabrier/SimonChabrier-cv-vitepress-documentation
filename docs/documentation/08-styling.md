@@ -426,4 +426,4 @@ Je **n'utilise presque jamais** `@apply` car je préfère les classes Tailwind d
 
 ---
 
-[← Système de Thèmes](07-themes.md) | [Retour à l'index](README.md) | [Composants →](09-composants.md)
+[← Système de Thèmes](07-themes.md) | [Composants →](09-composants.md)

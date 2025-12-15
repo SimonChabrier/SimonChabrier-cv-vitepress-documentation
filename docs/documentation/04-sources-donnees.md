@@ -526,4 +526,4 @@ Pour les dates, j'utilise le format `YYYY-MM` ou `YYYY-MM-DD` :
 
 ---
 
-[← Configuration TypeScript](03-typescript-config.md) | [Retour à l'index](README.md) | [Système i18n →](05-i18n.md)
+[← Configuration TypeScript](03-typescript-config.md) | [Système i18n →](05-i18n.md)

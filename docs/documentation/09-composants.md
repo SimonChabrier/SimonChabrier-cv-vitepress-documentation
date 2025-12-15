@@ -552,4 +552,4 @@ const text = t("sections:hero.title", { lng: locale });
 
 ---
 
-[← Styling & CSS](08-styling.md) | [Retour à l'index](README.md) | [Utilitaires →](10-utilitaires.md)
+[← Styling & CSS](08-styling.md) | [Utilitaires →](10-utilitaires.md)

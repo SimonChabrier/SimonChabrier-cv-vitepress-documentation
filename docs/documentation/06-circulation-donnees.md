@@ -568,4 +568,4 @@ Prochains appels utilisent le cache (rapide)
 
 ---
 
-[← Système i18n](05-i18n.md) | [Retour à l'index](README.md) | [Système de Thèmes →](07-themes.md)
+[← Système i18n](05-i18n.md) | [Système de Thèmes →](07-themes.md)

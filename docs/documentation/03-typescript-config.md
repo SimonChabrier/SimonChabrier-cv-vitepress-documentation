@@ -406,4 +406,4 @@ Cannot find module '@cvType'
 
 ---
 
-[← Architecture](02-architecture.md) | [Retour à l'index](README.md) | [Sources de Données →](04-sources-donnees.md)
+[← Architecture](02-architecture.md) | [Sources de Données →](04-sources-donnees.md)

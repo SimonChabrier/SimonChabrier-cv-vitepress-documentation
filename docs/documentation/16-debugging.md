@@ -244,4 +244,4 @@ document.querySelector(".bg-skin-fill").style.backgroundColor
 
 ---
 
-[← Nouvelles Fonctionnalités](15-nouvelles-fonctionnalites.md) | [Retour à l'index](README.md) | [Maintenance →](17-maintenance.md)
+[← Nouvelles Fonctionnalités](15-nouvelles-fonctionnalites.md) | [Maintenance →](17-maintenance.md)

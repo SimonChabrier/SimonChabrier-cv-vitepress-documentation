@@ -389,4 +389,4 @@ import * as legal from "@mentions-es";
 
 ---
 
-[← Build & Déploiement](14-build-deploiement.md) | [Retour à l'index](README.md) | [Debugging →](16-debugging.md)
+[← Build & Déploiement](14-build-deploiement.md) | [Debugging →](16-debugging.md)

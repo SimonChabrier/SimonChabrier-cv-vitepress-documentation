@@ -214,4 +214,4 @@ pnpm astro check
 
 ---
 
-[← SEO & Meta Tags](11-seo.md) | [Retour à l'index](README.md) | [Sécurité →](13-securite.md)
+[← SEO & Meta Tags](11-seo.md) | [Sécurité →](13-securite.md)

@@ -172,4 +172,4 @@ grep "og:image" dist/fr/index.html
 
 ---
 
-[← Sécurité](13-securite.md) | [Retour à l'index](README.md) | [Nouvelles Fonctionnalités →](15-nouvelles-fonctionnalites.md)
+[← Sécurité](13-securite.md) | [Nouvelles Fonctionnalités →](15-nouvelles-fonctionnalites.md)

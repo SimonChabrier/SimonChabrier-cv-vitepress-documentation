@@ -113,4 +113,4 @@ Toutes les données du CV sont contrôlées (pas d'input utilisateur).
 
 ---
 
-[← Accessibilité](12-accessibilite.md) | [Retour à l'index](README.md) | [Build & Déploiement →](14-build-deploiement.md)
+[← Accessibilité](12-accessibilite.md) | [Build & Déploiement →](14-build-deploiement.md)

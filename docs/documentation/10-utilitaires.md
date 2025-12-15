@@ -284,4 +284,4 @@ try {
 
 ---
 
-[← Composants](09-composants.md) | [Retour à l'index](README.md) | [SEO & Meta Tags →](11-seo.md)
+[← Composants](09-composants.md) | [SEO & Meta Tags →](11-seo.md)

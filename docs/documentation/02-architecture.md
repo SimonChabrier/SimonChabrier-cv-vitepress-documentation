@@ -343,4 +343,4 @@ dist/
 
 ---
 
-[← Stack Technique](01-stack-technique.md) | [Retour à l'index](README.md) | [Configuration TypeScript →](03-typescript-config.md)
+[← Stack Technique](01-stack-technique.md) | [Configuration TypeScript →](03-typescript-config.md)

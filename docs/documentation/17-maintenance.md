@@ -192,4 +192,4 @@ Pour toute question ou problème :
 
 ---
 
-[← Debugging](16-debugging.md) | [Retour à l'index](README.md)
+[← Debugging](16-debugging.md)

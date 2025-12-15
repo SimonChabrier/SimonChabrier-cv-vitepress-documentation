@@ -575,4 +575,4 @@ Avant de déployer, je vérifie que tous les composants sont lisibles en light E
 
 ---
 
-[← Circulation des Données](06-circulation-donnees.md) | [Retour à l'index](README.md) | [Styling & CSS →](08-styling.md)
+[← Circulation des Données](06-circulation-donnees.md) | [Styling & CSS →](08-styling.md)

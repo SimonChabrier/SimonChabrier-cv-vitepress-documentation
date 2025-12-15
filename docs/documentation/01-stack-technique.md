@@ -184,4 +184,4 @@ J'utilise Prettier pour formater automatiquement le code à chaque sauvegarde.
 
 ---
 
-[← Retour à l'index](README.md) | [Architecture des Fichiers →](02-architecture.md)
+[Architecture des Fichiers →](02-architecture.md)

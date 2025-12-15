@@ -149,4 +149,4 @@ grep "og:image" dist/fr/index.html
 
 ---
 
-[← Utilitaires](10-utilitaires.md) | [Retour à l'index](README.md) | [Accessibilité →](12-accessibilite.md)
+[← Utilitaires](10-utilitaires.md) | [Accessibilité →](12-accessibilite.md)
