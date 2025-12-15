@@ -110,7 +110,3 @@ Je n'utilise pas `innerHTML` pour injecter du contenu dynamique.
 ### ✅ Sanitization
 
 Toutes les données du CV sont contrôlées (pas d'input utilisateur).
-
----
-
-[← Accessibilité](12-accessibilite.md) | [Build & Déploiement →](14-build-deploiement.md)

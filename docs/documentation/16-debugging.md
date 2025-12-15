@@ -241,7 +241,3 @@ document.querySelector(".bg-skin-fill").style.backgroundColor
 1. Vérifier que Alpine.js est chargé
 2. Utiliser `x-cloak` pour masquer avant hydratation
 3. Vérifier la console pour erreurs JavaScript
-
----
-
-[← Nouvelles Fonctionnalités](15-nouvelles-fonctionnalites.md) | [Maintenance →](17-maintenance.md)

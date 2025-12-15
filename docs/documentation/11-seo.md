@@ -146,7 +146,3 @@ const imageUrl = `${canonicalDomain}${cleanImagePath}`;
 grep "og:image" dist/fr/index.html
 # → <meta property="og:image" content="https://simonchabrier.fr/avatar_254.webp" />
 ```
-
----
-
-[← Utilitaires](10-utilitaires.md) | [Accessibilité →](12-accessibilite.md)

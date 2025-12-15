@@ -281,7 +281,3 @@ try {
   console.error("Erreur chargement Matomo:", error);
 }
 ```
-
----
-
-[← Composants](09-composants.md) | [SEO & Meta Tags →](11-seo.md)

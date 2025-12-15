@@ -524,6 +524,3 @@ Pour les dates, j'utilise le format `YYYY-MM` ou `YYYY-MM-DD` :
 1. Éditer `mentions-fr.json` et `mentions-en.json`
 2. Rebuild le site
 
----
-
-[← Configuration TypeScript](03-typescript-config.md) | [Système i18n →](05-i18n.md)

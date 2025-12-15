@@ -423,7 +423,3 @@ Je **n'utilise presque jamais** `@apply` car je préfère les classes Tailwind d
   @apply mt-1 rounded bg-white p-2 shadow;
 }
 ```
-
----
-
-[← Système de Thèmes](07-themes.md) | [Composants →](09-composants.md)

@@ -565,7 +565,3 @@ Prochains appels utilisent le cache (rapide)
 | **Langue** | Changement select | Redirection vers `/[locale]/` |
 | **Palette** | Cmd+K | Modale s'ouvre, commandes cliquables |
 | **Props** | Render composant | Données passées du parent aux enfants |
-
----
-
-[← Système i18n](05-i18n.md) | [Système de Thèmes →](07-themes.md)

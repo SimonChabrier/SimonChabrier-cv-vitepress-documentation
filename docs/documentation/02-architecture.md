@@ -340,7 +340,3 @@ dist/
 ├── avatar_*.webp        # Images copiées
 └── ...
 ```
-
----
-
-[← Stack Technique](01-stack-technique.md) | [Configuration TypeScript →](03-typescript-config.md)

@@ -211,7 +211,3 @@ document.querySelectorAll('[data-container] h4').forEach((header) => {
 pnpm astro check
 # Vérifie aussi les problèmes d'accessibilité de base
 ```
-
----
-
-[← SEO & Meta Tags](11-seo.md) | [Sécurité →](13-securite.md)

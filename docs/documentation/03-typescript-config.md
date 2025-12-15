@@ -403,7 +403,3 @@ Cannot find module '@cvType'
 ```
 
 **Solution** : Vérifier que `src/cv.d.ts` existe et que le path alias est bien défini dans `tsconfig.json`.
-
----
-
-[← Architecture](02-architecture.md) | [Sources de Données →](04-sources-donnees.md)

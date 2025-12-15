@@ -549,7 +549,3 @@ const text = t("sections:hero.title", { lng: locale });
   <div x-show="open">Contenu</div>
 </div>
 ```
-
----
-
-[← Styling & CSS](08-styling.md) | [Utilitaires →](10-utilitaires.md)

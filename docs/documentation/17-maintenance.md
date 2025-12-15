@@ -189,7 +189,3 @@ Pour toute question ou problème :
 **📅 Dernière mise à jour** : Décembre 2024
 **🔖 Version** : 1.0.0
 **👤 Auteur** : Simon Chabrier
-
----
-
-[← Debugging](16-debugging.md)

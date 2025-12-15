@@ -169,7 +169,3 @@ grep "og:image" dist/fr/index.html
 2. Pages
 3. Custom domain: `simonchabrier.fr`
 4. Enforce HTTPS: ✅
-
----
-
-[← Sécurité](13-securite.md) | [Nouvelles Fonctionnalités →](15-nouvelles-fonctionnalites.md)

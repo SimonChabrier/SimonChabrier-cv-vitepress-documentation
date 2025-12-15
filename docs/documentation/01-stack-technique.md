@@ -181,7 +181,3 @@ J'utilise Prettier pour formater automatiquement le code à chaque sauvegarde.
 - UX moderne (palette de commandes)
 - Accessible au clavier
 - Facile à implémenter
-
----
-
-[Architecture des Fichiers →](02-architecture.md)

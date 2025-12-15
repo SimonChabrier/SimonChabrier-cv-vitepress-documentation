@@ -386,7 +386,3 @@ import * as legal from "@mentions-es";
   ]);
 </script>
 ```
-
----
-
-[← Build & Déploiement](14-build-deploiement.md) | [Debugging →](16-debugging.md)
